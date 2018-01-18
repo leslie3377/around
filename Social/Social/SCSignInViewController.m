@@ -2,8 +2,6 @@
 //  SCSignInViewController.m
 //  Social
 //
-//  Created by yu jianing on 2017/10/14.
-//  Copyright © 2017年 yu jianing. All rights reserved.
 //
 
 #import "SCSignInViewController.h"
